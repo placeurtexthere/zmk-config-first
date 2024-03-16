@@ -1,0 +1,2 @@
+config SHIELD_FIRST
+    def_bool $(shields_list_contains,First)
